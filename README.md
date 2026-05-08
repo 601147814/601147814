@@ -30,10 +30,10 @@ Welcome to my page!
 Here is a brief introduction to the projects I have worked on at my current company.  
 | Project Name | Project Lifecycle | Role |
 | -------------------------- | ------------ | -------- |
-| Handheld Ultrasound Device | 2025.06 - 2026.04 | Logic LEADER |
-| Portable Ultrasound Device | 2025.01–2026.10 | Logic LEADER |
-| Desktop Ultrasound Device | 2024.06–Present | Logic LEADER |
-| Brain‑Computer Interface | 2026.02–Present | Logic LEADER |
+| Handheld Ultrasound Device | 2025.06 - 2026.04 | Logic Leader |
+| Portable Ultrasound Device | 2025.01–2026.10 | Logic Leader |
+| Desktop Ultrasound Device | 2024.06–Present | Logic Leader |
+| Brain‑Computer Interface | 2026.02–Present | Logic Leader |
 
 # Resume
 [Resume-2026](https://docs.qq.com/doc/DUWFvakJCeWdvZFZo)
