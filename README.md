@@ -38,4 +38,4 @@ Here is a brief introduction to the projects I have worked on at my current comp
 # Resume
 [Resume-2026](https://docs.qq.com/doc/DUWFvakJCeWdvZFZo)
 # Recently Updated
-<p align="center">This page is updated in 2025.05.08</p>
+<p align="center">This page is updated in 2026.05.08</p>
