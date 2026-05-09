@@ -17,20 +17,20 @@ Here are some ideas to get you started:
 Welcome to my page!
 # Basic Info
  Name: Zheng Liang  
- Email: 601147814@qq.com  
- Phone: 17623851997  
+ Email: `601147814@qq.com`  
+ Phone: `17623851997`  
  Location: Chenghua District, Chengdu City, Sichuan Province  
 # Core Strengths
-⚡ 8 years of FPGA development experience, proficient in development tools and Verilog HDL  
-⚡ Experienced in leading teams and delivering large‑scale complex projects  
-⚡ Expertise in high-speed interfaces: JESD204B, PCIe, LVDS, USB 3.0, DDR3  
-⚡ Skilled in signal processing: digital beamforming, dynamic coefficient filtering, modulation/demodulation  
-⚡ Capable of high-performance FPGA system architecture design (control path & data path)  
+⚡ 8 years of FPGA development experience, proficient in development tools and `Verilog` HDL  
+⚡ Experienced in leading teams and delivering `large‑scale complex projects`  
+⚡ Expertise in high-speed interfaces: `JESD204B`, `PCIe`, `LVDS`, `USB 3.0`, `DDR3`  
+⚡ Skilled in `signal processing`: digital beamforming, dynamic coefficient filtering, modulation/demodulation  
+⚡ Capable of `high-performance FPGA system architecture` design (control path & data path)  
 # Project Description
 Here is a brief introduction to the projects I have worked on at my current company.  
 | Project Name | Project Lifecycle | Role |
 | -------------------------- | ------------ | -------- |
-| Handheld Ultrasound Device | 2025.06 - 2026.04 | Logic Leader |
+| Handheld Ultrasound Device | 2025.06-2026.04 | Logic Leader |
 | Portable Ultrasound Device | 2025.01–2026.10 | Logic Leader |
 | Desktop Ultrasound Device | 2024.06–Present | Logic Leader |
 | Brain‑Computer Interface | 2026.02–Present | Logic Leader |
@@ -38,4 +38,4 @@ Here is a brief introduction to the projects I have worked on at my current comp
 # Resume
 [Resume-2026](https://docs.qq.com/doc/DUWFvakJCeWdvZFZo)
 # Recently Updated
-<p align="center">This page is updated in 2026.05.08</p>
+<p align="center">This page is updated in 2026.05.09</p>
