@@ -35,6 +35,8 @@ Here is a brief introduction to the projects I have worked on at my current comp
 | Desktop Ultrasound Device | 2024.06–Present | Logic Leader |
 | Brain‑Computer Interface | 2026.02–Present | Logic Leader |
 
+This is a detailed introduction to the project.  
+[project introduction](https://docs.qq.com/slide/DUVBoVFhzZ1dvRUhi)
 # Resume
 [Resume-2026](https://docs.qq.com/markdown/DUUFxc2t5VWJCTk9C)
 # Recently Updated
