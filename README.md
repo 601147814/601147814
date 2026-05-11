@@ -36,6 +36,6 @@ Here is a brief introduction to the projects I have worked on at my current comp
 | Brain‑Computer Interface | 2026.02–Present | Logic Leader |
 
 # Resume
-[Resume-2026](https://docs.qq.com/doc/DUWFvakJCeWdvZFZo)
+[Resume-2026](https://docs.qq.com/markdown/DUUFxc2t5VWJCTk9C)
 # Recently Updated
 <p align="center">This page is updated in 2026.05.09</p>
