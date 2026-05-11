@@ -38,6 +38,6 @@ Here is a brief introduction to the projects I have worked on at my current comp
 This is a detailed introduction to the project.  
 [project introduction](https://docs.qq.com/slide/DUVBoVFhzZ1dvRUhi)
 # Resume
-[Resume-2026](https://docs.qq.com/markdown/DUUFxc2t5VWJCTk9C)
+[Resume-2026](https://docs.qq.com/doc/DUWFvakJCeWdvZFZo)
 # Recently Updated
 <p align="center">This page is updated in 2026.05.09</p>
